@@ -25,7 +25,7 @@ Nuestro proyecto se centra en el fomento de la capacidad de concentración y sal
 
 [Presentación CIORAMCA ZEN](https://view.genial.ly/6082f69a2766ae0d9143f2cc/presentation-cioramca-zen)
 
-**logotipo** : 
+**Logotipo** : 
 
 <img src="Logo_CioramcaZen.png" alt="Logotipo de CIORAMCA ZEN" width="200"/>
 
