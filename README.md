@@ -2,9 +2,9 @@
 
 (Plantilla para la creación de un proyecto en ideapolis)
 
-Proyecto de Inteligencia Colectiva y Formación en la Empresa 
+Proyecto de Inteligencia Colectiva y Formación en las Empresas 
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
-ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
+ETS Ingenierías Informática y de Telecomunicación Universidad de Granada  
 
 ----
 
@@ -20,6 +20,10 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 **Resumen** : 
 
 Nuestro proyecto se centra en el fomento de la capacidad de concentración y salud mental a través del desarrollo de una aplicación móvil. 
+
+**Presentación**
+
+[Presentación CIORAMCA ZEN](https://view.genial.ly/6082f69a2766ae0d9143f2cc/presentation-cioramca-zen)
 
 **logotipo** : 
 
