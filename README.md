@@ -12,10 +12,10 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Autor(es)** :
 
-- Julián Cifuentes Jimenez
-- Manuela Elena Cárdenas de la Miyar
-- Manuel Ortiz Rizo 
-- Mónica Amate Berenguel
+- [Julián Cifuentes Jimenez](https://github.com/juliancifuentes95)
+- [Manuela Elena Cárdenas de la Miyar](https://github.com/DMecam)
+- [Manuel Ortiz Rizo](https://github.com/ma16nu)
+- [Mónica Amate Berenguel](https://github.com/monicaamate)
 
 **Resumen** : 
 
