@@ -23,7 +23,7 @@ Nuestro proyecto se centra en el fomento de la capacidad de concentración y sal
 
 **logotipo** : 
 
-![Logotipo de CIORAMCA ZEN](Logo_CioramcaZen.png)
+<img src="Logo_CioramcaZen.png" alt="Logotipo de CIORAMCA ZEN" width="200"/>
 
 **Slogan** (frase motivadora/inspiradora): Los árboles no dejan ver el bosque.
 
