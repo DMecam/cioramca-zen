@@ -21,7 +21,9 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 Nuestro proyecto se centra en el fomento de la capacidad de concentración y salud mental a través del desarrollo de una aplicación móvil. 
 
-**logotipo** :  ________
+**logotipo** : 
+
+![Logotipo de CIORAMCA ZEN](Logo_CioramcaZen.png)
 
 **Slogan** (frase motivadora/inspiradora): Los árboles no dejan ver el bosque.
 
@@ -35,7 +37,7 @@ La licencia de la aplicación requiere de reconocimiento de la autoría, no perm
 
 **Medios** (donde se tiene presencia): 
 
-*  :octocat: (github url) 
+*  :octocat: (https://github.com/DMecam/cioramca-zen) 
 - Twitter
 - Instagram
 - LinkedIn
